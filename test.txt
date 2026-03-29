@@ -1,0 +1,85 @@
+UDP FILE TRANSFER TEST: START OF DATA SEGMENTATION EXPERIMENT.
+This file is designed to be large enough to require multiple UDP packets.
+The goal is to verify the Stop-and-Wait protocol and Sequence Numbers.
+PACKET TRACKING: If you see this line, the first packet likely arrived.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.
+Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
+Ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+Velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
+Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+ --- REPETITION BLOCK TO INCREASE FILE SIZE FOR LAB REQUIREMENTS ---
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+ Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.
+Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
+Ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+Velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
+Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+ --- REPETITION BLOCK TO INCREASE FILE SIZE FOR LAB REQUIREMENTS ---
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+ Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.
+Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
+Ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+Velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
+Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+ --- REPETITION BLOCK TO INCREASE FILE SIZE FOR LAB REQUIREMENTS ---
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+ Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.
+Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
+Ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+Velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
+Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+ --- REPETITION BLOCK TO INCREASE FILE SIZE FOR LAB REQUIREMENTS ---
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+ Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.
+Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
+Ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+Velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
+Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+ --- REPETITION BLOCK TO INCREASE FILE SIZE FOR LAB REQUIREMENTS ---
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+ Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.
+Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
+Ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+Velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
+Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+ --- REPETITION BLOCK TO INCREASE FILE SIZE FOR LAB REQUIREMENTS ---
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+ Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.
+Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
+Ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+Velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
+Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+ --- REPETITION BLOCK TO INCREASE FILE SIZE FOR LAB REQUIREMENTS ---
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+ Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.
+Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+Veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.
+Ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+Velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.
+Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.
+ --- REPETITION BLOCK TO INCREASE FILE SIZE FOR LAB REQUIREMENTS ---
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+ Data Integrity Check: 1234567890 !@#$%^&*()_+ QWERTYUIOP ASDFGHJKL.
+END OF FILE: IF YOU SEE THIS, ALL PACKETS WERE TRANSFERRED SUCCESSFULLY.
