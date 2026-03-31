@@ -3,7 +3,7 @@ import struct
 import os
 import time
 
-LISTEN_IP = "127.0.0.1"
+LISTEN_IP = "0.0.0.0"
 LISTEN_PORT = 5005
 TIMEOUT = 2.0  
 
